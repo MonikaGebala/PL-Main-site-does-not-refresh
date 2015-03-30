@@ -1,0 +1,2 @@
+# PL-Main-site-does-not-refresh
+  Hey @LiudasB ,  Our users have just reported us a problem with a main site (http://www.vinted.pl/). They suspect it doesn't change from Friday and the pictures are the same;  https://www.vinted.pl/forum/pytania-i-sugestie-na-temat-vinted-dot-pl/pytania-i-uwagi/558029-jedna-a-ta-sama-strona-glowna-vinted  Many users tried to upload new photos but they didn't appear on a main site at all.  Could you check that please ? If you have any questions don't hesitate contact me :)  Thanks,  Monika
